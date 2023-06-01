@@ -46,7 +46,7 @@ These projects provide hands-on experience and allow me to build real-world appl
 
 ## Usage
 
-To access the necessary materials, lectures, problem sets, and project descriptions for CS50 you can visit the official course page on [edX](https://www.edx.org). There, you will find all the resources and materials provided by the course instructors.
+To access the necessary materials, lectures, problem sets, and project descriptions for CS50 you can visit the official course page on [edX](https://www.edx.org){:target="_blank"}. There, you will find all the resources and materials provided by the course instructors.
 
 By visiting the official course page, you can enroll in the course, access the lectures, and follow along with the structured curriculum. The course on edX will provide you with a comprehensive learning experience, including video lectures, readings, quizzes, problem sets, and projects.
 
