@@ -20,9 +20,12 @@ These projects will provide you with hands-on experience in securing systems, an
 
 ## Usage
 
-In this repository, you will find the necessary materials, lectures, and project descriptions for CS50cs's Introduction to Cybersecurity. Feel free to explore the course content and utilize the resources to enhance your learning experience.
+To access the necessary materials, lectures, problem sets, and project descriptions for CS50cs's Introduction to Cybersecurity, you can visit the official course page on [edX](https://www.edx.org). There, you will find all the resources and materials provided by the course instructors.
 
-Each project folder contains detailed instructions, specifications, and any additional resources you may need to complete the project successfully.
+By visiting the official course page, you can enroll in the course, access the lectures, and follow along with the structured curriculum. The course on edX will provide you with a comprehensive learning experience, including video lectures, readings, quizzes, problem sets, and projects.
+
+In this repository, each folder contains all the necessary materials that I have used or created throughout the course. You can find instructions, specifications, and any additional resources needed to complete the projects successfully. These materials are meant to complement the content on edX and provide you with an organized repository of the coursework.
+
+Feel free to explore the course content on edX and here to utilize the provided resources to enhance your learning experience. You can also join the course's online community, engage with fellow learners, and seek support from the course staff if needed.
 
 Best of luck with your CS50cs course! Enjoy learning about cybersecurity and have fun working on the projects!
-

@@ -21,6 +21,12 @@ These projects will challenge you to apply your programming skills, think critic
 
 ## Usage
 
-In this repository, you will find the necessary materials, lectures, problem sets, and project descriptions for CS50x's Introduction to Computer Science. Feel free to explore the course content and utilize the resources to enhance your learning experience.
+To access the necessary materials, lectures, problem sets, and project descriptions for CS50x's Introduction to Computer Science, you can visit the official course page on [edX](https://www.edx.org). There, you will find all the resources and materials provided by the course instructors.
 
-Each project folder contains detailed instructions, specifications, and any additional resources you may need to complete the project successfully.
+By visiting the official course page, you can enroll in the course, access the lectures, and follow along with the structured curriculum. The course on edX will provide you with a comprehensive learning experience, including video lectures, readings, quizzes, problem sets, and projects.
+
+In this repository, each folder contains all the necessary materials that I have used or created throughout the course. You can find instructions, specifications, and any additional resources needed to complete the projects successfully. These materials are meant to complement the content on edX and provide you with an organized repository of the coursework.
+
+Feel free to explore the course content on edX and here to utilize the provided resources to enhance your learning experience. You can also join the course's online community, engage with fellow learners, and seek support from the course staff if needed.
+
+Best of luck with your CS50x course! Enjoy learning computer science and developing your programming skills!

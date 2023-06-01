@@ -46,4 +46,12 @@ These projects provide hands-on experience and allow me to build real-world appl
 
 ## Usage
 
-Feel free to explore the folders corresponding to each course to access the coursework, assignments, and projects. Each folder contains the necessary materials and resources for that particular course.
+To access the necessary materials, lectures, problem sets, and project descriptions for CS50 you can visit the official course page on [edX](https://www.edx.org). There, you will find all the resources and materials provided by the course instructors.
+
+By visiting the official course page, you can enroll in the course, access the lectures, and follow along with the structured curriculum. The course on edX will provide you with a comprehensive learning experience, including video lectures, readings, quizzes, problem sets, and projects.
+
+In this repository, each folder contains all the necessary materials that I have used or created throughout the course. You can find instructions, specifications, and any additional resources needed to complete the projects successfully. These materials are meant to complement the content on edX and provide you with an organized repository of the coursework.
+
+Feel free to explore the course content on edX and here to utilize the provided resources to enhance your learning experience. You can also join the course's online community, engage with fellow learners, and seek support from the course staff if needed.
+
+Best of luck with your CS50 journey! Enjoy learning computer science and developing your programming skills!
