@@ -19,14 +19,14 @@ Through CS50, I'll gain exposure to a variety of topics and languages, including
 
 ## Courses Included
 
-- [CS50x's Introduction to Computer Science](./CS50x): A comprehensive introduction to the fundamentals of computer science, including algorithms, data structures, SQL, and more.
-- [CS50p's Introduction to Programming with Python](./CS50p): An exploration of programming concepts using the Python programming language.
-- [CS50sql's Introduction to Databases with SQL](./CS50sql): An introduction to database management systems, focusing on SQL (Structured Query Language).
-- [CS50w's Web Programming with Python and JavaScript](./CS50w): A course covering web development using Python, JavaScript, HTML, CSS, and more.
-- [CS50AI's Introduction to Artificial Intelligence with Python](./CS50AI): An introduction to the principles and techniques of artificial intelligence and machine learning.
-- [CS50cs's Introduction to Cybersecurity](./CS50cs): A comprehensive introduction to the field of cybersecurity, covering various topics such as cryptography, network security, and more.
-- [CS50g's Introduction to Game Development](./CS50g): A course exploring the fundamentals of game development, including game design, graphics, and interactive experiences.
-- [CS50m's Mobile App Development with React Native](./CS50m): An introduction to mobile app development using React Native, a popular framework for building cross-platform applications.
+- [CS50x's Introduction to Computer Science](./0_CS50x): A comprehensive introduction to the fundamentals of computer science, including algorithms, data structures, SQL, and more.
+- [CS50p's Introduction to Programming with Python](./1_CS50p): An exploration of programming concepts using the Python programming language.
+- [CS50sql's Introduction to Databases with SQL](./2_CS50sql): An introduction to database management systems, focusing on SQL (Structured Query Language).
+- [CS50w's Web Programming with Python and JavaScript](./3_CS50w): A course covering web development using Python, JavaScript, HTML, CSS, and more.
+- [CS50AI's Introduction to Artificial Intelligence with Python](./4_CS50AI): An introduction to the principles and techniques of artificial intelligence and machine learning.
+- [CS50cs's Introduction to Cybersecurity](./5_CS50cs): A comprehensive introduction to the field of cybersecurity, covering various topics such as cryptography, network security, and more.
+- [CS50g's Introduction to Game Development](./6_CS50g): A course exploring the fundamentals of game development, including game design, graphics, and interactive experiences.
+- [CS50m's Mobile App Development with React Native](./7_CS50m): An introduction to mobile app development using React Native, a popular framework for building cross-platform applications.
 
 ## Course Structure
 
